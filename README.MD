@@ -1,0 +1,2 @@
+This GitHub is the code for my game made in Unity3D, Voxel World. If you see any flaws within the code then please contribute to it to make it flawless in the future.
+Please note these files are .PREFAB files, which means you need Unity3D to view them and edit them, unless you found another way.
